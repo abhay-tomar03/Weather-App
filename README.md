@@ -8,7 +8,7 @@
 I have used [OpenWeather](https://openweathermap.org/api) api to fetch real time weather data.
 
 ## Built with
-html, css, bootstrap and vannila Js
+HTML, CSS BOOTSTRAP, JAVASCRIPT
 
 ## Demo
 You can see live demo [here](https://abhay-tomar03.github.io/Weather-App/).
