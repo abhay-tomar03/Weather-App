@@ -1,7 +1,7 @@
 # ⚡ Weather App
  Weather app that fetches real time weather data of any location
 
-![Weather-App](https://user-images.githubusercontent.com/75438874/189709834-9069009f-0f31-453c-808c-43d634efe846.png)
+![weather app](https://user-images.githubusercontent.com/75438874/190848890-f6f8289e-0344-4876-afb7-2be453235ce4.png)
 
 
 ## Api
@@ -12,6 +12,7 @@ html, css, bootstrap and vannila Js
 
 ## Demo
 You can see live demo [here](https://abhay-tomar03.github.io/Weather-App/).
+
 
 
 
